@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/fuminsb/static/css/main.e6c13ad2.css",
+    "main.js": "/fuminsb/static/js/main.71a24b39.js",
+    "static/js/453.7ca53f2f.chunk.js": "/fuminsb/static/js/453.7ca53f2f.chunk.js",
+    "static/media/6.jpeg": "/fuminsb/static/media/6.efdc54165d39fe0d4394.jpeg",
+    "static/media/2.jpeg": "/fuminsb/static/media/2.83134427e4c504a1b48c.jpeg",
+    "static/media/fumin.jpeg": "/fuminsb/static/media/fumin.444079337fed654983e4.jpeg",
+    "static/media/4.jpeg": "/fuminsb/static/media/4.51a1ca6c2f270abd4fc1.jpeg",
+    "static/media/5.jpeg": "/fuminsb/static/media/5.1e8ec63aaa75a1dabbd1.jpeg",
+    "static/media/MIwinter6.jpeg": "/fuminsb/static/media/MIwinter6.8c5afef35be9769aa1f5.jpeg",
+    "static/media/MiWinter2.jpeg": "/fuminsb/static/media/MiWinter2.a29341875682199ee7a9.jpeg",
+    "static/media/3.jpeg": "/fuminsb/static/media/3.6b4c89d338424167f55a.jpeg",
+    "static/media/1.jpeg": "/fuminsb/static/media/1.32a14aeff93406e829c0.jpeg",
+    "static/media/Cannonsburg.png": "/fuminsb/static/media/Cannonsburg.8dad47be39335be27cfd.png",
+    "static/media/Pine Knob.png": "/fuminsb/static/media/Pine Knob.22dabe706f07d64c86cd.png",
+    "static/media/Mt Brighton3.png": "/fuminsb/static/media/Mt Brighton3.1bc0f823ea9e9c8f85c0.png",
+    "static/media/MiWinter1.jpg": "/fuminsb/static/media/MiWinter1.94fa5cf61d45cbfe1ae2.jpg",
+    "static/media/Mt Brighton.png": "/fuminsb/static/media/Mt Brighton.133bac8ecde85a5526ed.png",
+    "static/media/MIwinter3.webp": "/fuminsb/static/media/MIwinter3.d8dcbed0da8ed404cb15.webp",
+    "static/media/michigan-ski-background.webp": "/fuminsb/static/media/michigan-ski-background.595732eb80fb5b877dbe.webp",
+    "static/media/MIwinter4.webp": "/fuminsb/static/media/MIwinter4.ef187d4e240d7c1db487.webp",
+    "static/media/MIwinter5.webp": "/fuminsb/static/media/MIwinter5.91a359fd75fda2ada9b8.webp",
+    "static/media/Mt Holly2.jpg": "/fuminsb/static/media/Mt Holly2.9d4f0cc1245237aeaa2f.jpg",
+    "static/media/3.jpg": "/fuminsb/static/media/3.8908017ab9a7ae48ac7a.jpg",
+    "static/media/2.jpg": "/fuminsb/static/media/2.04f6ca19ec08eaa7e79d.jpg",
+    "static/media/1.jpg": "/fuminsb/static/media/1.edf5bf932144e09400de.jpg",
+    "index.html": "/fuminsb/index.html",
+    "main.e6c13ad2.css.map": "/fuminsb/static/css/main.e6c13ad2.css.map",
+    "main.71a24b39.js.map": "/fuminsb/static/js/main.71a24b39.js.map",
+    "453.7ca53f2f.chunk.js.map": "/fuminsb/static/js/453.7ca53f2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.71a24b39.js"
+  ]
+}
